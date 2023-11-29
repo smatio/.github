@@ -1,5 +1,5 @@
-<div style="width:100%;display:flex;justify-content:center;align-items:center;margin-bottom:20px">
-<img src="https://cdn.beta.smat.io/assets/v2/featuregraphic.webp" alt="Smat banner" style="border-radius:10px;" width="auto" height="320px" />
+<div style="position:relative; height:100%; width:100%; overflow:hidden; aspect-ratio:16/9">
+<img style="object-fit: cover; width:100%; border-radius:10px" src="https://cdn.beta.smat.io/assets/v2/featuregraphic.webp" alt="Smat banner" border="0">
 </div>
 
 # Smat
