@@ -24,6 +24,6 @@ The <b>Smat</b> platform is a user-friendly environment for wealth managers to e
 
 [📑 Whitepaper & docs](https://docs.smat.io)
 
-[📅 Contact us](<(https://token.smat.io/contact)>)
+[📅 Contact us](https://token.smat.io/contact)
 
 [📞 Book a call](https://calendly.com/smat)
